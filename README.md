@@ -57,6 +57,9 @@ If the employee information is empty, it shows:
 ![Empty Employee Info](images/empty_add.png)
 
 #### Update Employee
+Edit email address, from yuki@gmail.com to yukimura@gmail.com:
+
+
 ![Update Employee](images/edit_employee.png)
 
 After editing the employee information, the list of employees:
